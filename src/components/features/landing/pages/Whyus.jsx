@@ -15,7 +15,7 @@ export const Whyus = () => {
         <em><p  className="whyus__under__head">These features make us the <span className="text__color_event">best</span></p></em>
           <div className="whyus-box">
             <div className="whyuss">
-              <h1>Experienced Culinary</h1>
+              <h1>Proof of Identity</h1>
               <div className="whyus-description">
                 <div className="whyus-icon">
                   <i className="fa fa-shield" aria-hidden="true"></i>
@@ -23,12 +23,11 @@ export const Whyus = () => {
                 <div className="whyus-text">
                   <p>
                     {" "}
-                    Come and experience a variety of drinks along with a great
-                    set of people to talk and interact with{" "}
+                    Verify your digital identity at your fingertips{" "}
                   </p>
                 </div>
               </div>
-              <h1>Seat Booking Online</h1>
+              <h1>Passwordless Authentication</h1>
               <div className="whyus-description">
                 <div className="whyus-icon">
                   <i className="fa fa-check-circle-o" aria-hidden="true"></i>
@@ -36,8 +35,7 @@ export const Whyus = () => {
                 <div className="whyus-text">
                   <p>
                     {" "}
-                    Worried about Bookings/Availability ? Guess what ? Our 24
-                    hours Online booking portal just solves the issue !{" "}
+                    Provide frictionless authentication{" "}
                   </p>
                 </div>
               </div>
