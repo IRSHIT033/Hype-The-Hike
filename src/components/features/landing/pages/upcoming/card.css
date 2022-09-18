@@ -12,8 +12,7 @@
 } */
 
 img {
-  height: 310px;
-  width: 450px;
+  
   vertical-align: middle;
 }
 
@@ -41,6 +40,7 @@ img {
   list-style: none;
   margin: 0;
   padding: 0;
+ 
   
 }
 
@@ -48,6 +48,12 @@ img {
   display: flex;
   padding: 1rem;
 }
+
+.cards_item img{
+  width:350px;
+  height:350px;
+}
+
 
 @media (min-width: 40rem) {
   .cards_item {
