@@ -15,7 +15,7 @@ function UpcomingIndex() {
   const { loggedIn_Arcana } = useContext(ArcanaContext);
 
   if (!loggedIn_Arcana) {
-    return <div>Pls login....</div>;
+    return <h1 style={{ color: "white" }}>Pls login....</h1>;
   }
 
   const connect = useMetamask();
