@@ -5,9 +5,11 @@
 <div align="center">
   <a href="https://github.com/IRSHIT033/Hype-The-Hike/">
     <img src="https://user-images.githubusercontent.com/63441472/190886780-44e6c887-3d97-44b4-a49c-ffefb117e828.png" alt="Logo" width="120" height="120">
+    
   </a>
 
   <h3 align="center">Hype the Hike - Community Driven tourism</h3>
+  <a align="center" href="https://youtu.be/MCPYNRPkr0c">Watch Demo Video</a>
 
   <p align="center">
     Use this readme for getting stared with this project
