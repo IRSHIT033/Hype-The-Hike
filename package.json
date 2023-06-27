@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@arcana/auth": "^0.1.1",
-    "@arcana/storage": "^0.2.0",
+    "@arcana/storage": "^0.3.18",
     "@esbuild-plugins/node-globals-polyfill": "^0.1.1",
     "@lighthouse-web3/sdk": "^0.1.6",
     "@thirdweb-dev/react": "^3.0.2",
