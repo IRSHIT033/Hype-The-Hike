@@ -12,7 +12,7 @@
     "@arcana/auth": "^0.1.1",
     "@arcana/storage": "^0.2.0",
     "@esbuild-plugins/node-globals-polyfill": "^0.1.1",
-    "@lighthouse-web3/sdk": "^0.1.6",
+    "@lighthouse-web3/sdk": "^0.2.0",
     "@thirdweb-dev/react": "^3.0.2",
     "@thirdweb-dev/sdk": "^3.0.2",
     "axios": "^0.27.2",
