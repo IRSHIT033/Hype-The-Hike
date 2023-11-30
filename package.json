@@ -17,7 +17,7 @@
     "@thirdweb-dev/sdk": "^3.0.2",
     "axios": "^0.27.2",
     "ethers": "^5.7.1",
-    "node-html-to-image": "^3.2.4",
+    "node-html-to-image": "^4.0.0",
     "react": "^18.2.0",
     "react-card-slider-component": "^1.0.9",
     "react-dom": "^18.2.0",
