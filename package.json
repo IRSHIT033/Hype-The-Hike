@@ -15,7 +15,7 @@
     "@lighthouse-web3/sdk": "^0.1.6",
     "@thirdweb-dev/react": "^3.0.2",
     "@thirdweb-dev/sdk": "^3.0.2",
-    "axios": "^0.27.2",
+    "axios": "^1.6.3",
     "ethers": "^5.7.1",
     "node-html-to-image": "^3.2.4",
     "react": "^18.2.0",
